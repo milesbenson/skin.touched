@@ -216,7 +216,7 @@
 						<item>
 							<label>3</label>
 							<onclick condition="!Skin.HasSetting(HomeVideosGoesToRoot)">ActivateWindow(Videos)</onclick>
-							<onclick condition="Skin.HasSetting(HomeVideosGoesToRoot)">ActivateWindow(Videos,root)</onclick>
+							<onclick condition="Skin.HasSetting(HomeVideosGoesToRoot)">ActivateWindow(Videos,Files,Return)</onclick>
 							<icon>videos.png</icon>
 							<thumb>-</thumb>
 							<visible>!Skin.HasSetting(HideHomeButtonVideo)</visible>
