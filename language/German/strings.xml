@@ -43,7 +43,7 @@
   <string id="31057">Playlist schließen</string>
   <string id="31058">System Musik-Dateien</string>
   <string id="31059">Aktuelle Playlist</string>
-  <string id="31060">Die Datei ist stacked, ab wo soll die Wiedergabe starten?.</string>
+  <string id="31060">Die Datei ist gestapelt, ab wo soll die Wiedergabe starten?</string>
   
   <!-- Submenu labels -->
   <string id="31200">Zurück</string>
@@ -105,4 +105,3 @@
   <string id="31553">"Videos" führt immer ins Video-root</string>
 
   </strings>
-
